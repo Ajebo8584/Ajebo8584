@@ -22,8 +22,9 @@ jobs:
       - name: Enabling RDP Access
         run: cmd /c Access.bat       
 
-      - name: Log In To Remote Desktop Protocol
+      - name: Log In To Remote Desktop Protocolt
+
         run: cmd /c startaudio.bat
 
       - name: Time Count
-        run: cmd /c loop.bat
+        run: cmd /c loop.ba
